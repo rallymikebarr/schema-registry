@@ -1,0 +1,9 @@
+---
+apiVersion: v1
+metadata:
+  askId: AIDE_0075659
+  caAgileId: poc
+  projectKey: com.optum.misc.schema.registry
+  projectFriendlyName: uhc-consumer-schema-registry
+  componentType: code
+  targetQG: GATE_00
